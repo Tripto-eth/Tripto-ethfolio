@@ -164,7 +164,7 @@ const workExperiences = {
     },
     {
       role: "Developer and Business Advisor",
-      company: "SLT",
+      company: "STLTN",
       companylogo: require("./assets/images/sltogo.jpg"),
       date: "May 2021 – August 2021",
       desc: "Marketing Plan - SmartContract",
@@ -176,7 +176,7 @@ const workExperiences = {
     {
       role: "Developer and Community Advisor",
       company: "Heppi Noise NFT Project",
-      companylogo: require("./assets/images/profilo.gif"),
+      companylogo: require("./assets/images/hnlogo.jpg"),
       date: "June 2022 – NOW",
       desc: "SmartContract - Gamification",
       descBullets: [
