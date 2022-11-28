@@ -72,7 +72,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Solidity",
-      fontAwesomeClassname: "fa-brands fa-ethereum"
+      fontAwesomeClassname: "fab fa-ethereum"
     },
     {
       skillName: "reactjs",
