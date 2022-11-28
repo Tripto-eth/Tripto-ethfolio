@@ -152,29 +152,37 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Developer",
-      //company: "",
+      role: "Developer and Community Advisor",
+      company: "Culo Coin",
       companylogo: require("./assets/images/culogo.jpg"),
-      date: "September 2021 – Present",
-      desc: "SmartContract and Website",
+      date: "September 2021 – April 2022",
+      desc: "SmartContract - Website - Gamification",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Total development of the smart contract and website",
+        "Community management and growth strategies"
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Developer and Business Advisor",
+      company: "SLT",
+      companylogo: require("./assets/images/sltogo.jpg"),
+      date: "May 2021 – August 2021",
+      desc: "Marketing Plan - SmartContract",
+      descBullets: [
+        "SmartContract development",
+        "Marketing plan"
+      ]
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Developer and Community Advisor",
+      company: "Heppi Noise NFT Project",
+      companylogo: require("./assets/images/profilo.gif"),
+      date: "June 2022 – NOW",
+      desc: "SmartContract - Gamification",
+      descBullets: [
+        "NFT SmartContract Development",
+        "Gamification Strategies"
+      ]
     }
   ]
 };
