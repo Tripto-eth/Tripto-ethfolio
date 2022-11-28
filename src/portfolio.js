@@ -26,7 +26,7 @@ const greeting = {
     "A lover of the blockchain world 🚀 with experience in creating Dapp and SmartContract applications, communication and marketing strategies."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -35,7 +35,7 @@ const greeting = {
 const socialMediaLinks = {
   twitter: "https://twitter.com/Tripto_eth",
   //linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
+  gmail: "iltrip18@gmail.com",
  // gitlab: "https://gitlab.com/saadpasta",
  // facebook: "https://www.facebook.com/saad.pasta7",
   medium: "https://medium.com/@tripto_eth",
