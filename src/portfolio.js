@@ -185,14 +185,14 @@ const workExperiences = {
       ]
     },
     {
-      role: "TEST",
-      company: "TSET",
-      companylogo: require("./assets/images/sltogo.jpg"),
-      date: "May 2021 – August 2021",
-      desc: "Marketing Plan - SmartContract",
+      role: "FUTURE",
+      company: "Company",
+      companylogo: require("./assets/images/codeInLogo.webp"),
+      date: "EMPTY",
+      desc: "EMPTY",
       descBullets: [
-        "SmartContract development",
-        "Marketing plan"
+        "EMPTY"
+        
       ]
     }
   ]
