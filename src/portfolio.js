@@ -183,6 +183,17 @@ const workExperiences = {
         "NFT SmartContract Development",
         "Gamification Strategies"
       ]
+    },
+    {
+      role: "TEST",
+      company: "TSET",
+      companylogo: require("./assets/images/sltogo.jpg"),
+      date: "May 2021 – August 2021",
+      desc: "Marketing Plan - SmartContract",
+      descBullets: [
+        "SmartContract development",
+        "Marketing plan"
+      ]
     }
   ]
 };
